@@ -1,0 +1,23 @@
+https://github.com/melqui16rv/python2693629.git
+
+
+…o crear un nuevo repositorio en la línea de comandos.
+
+echo "# python2693629" > > README.md
+git init
+git add README.md
+git commit -m "primer commit"
+git branch -M main
+git control remoto agregar origen https://github.com/melqui16rv/python2693629.git
+git push -u origen principal
+
+
+…o presione un repositorio existente desde la línea de comandos.
+
+git control remoto agregar origen https://github.com/melqui16rv/python2693629.git
+git branch -M main
+git push -u origen principal
+
+credendiales:
+user.name=melqui16rv
+user.email=120046235+melqui16rv@users.noreply.github.com

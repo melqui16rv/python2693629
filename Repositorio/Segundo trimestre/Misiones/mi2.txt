@@ -1,0 +1,6 @@
+WHILE:
+-lea dos numeros, garantice que hay uno mayor que el otro. Si no es el caso pidalos de nuevo
+-Reste el menor del mayor y si el resultado lo permite reste nuevamente y diga cuanto sobra.
+FOR:
+-Solicite al usuario, fin y cantidad a incrementar o incrementar o decrementar según el caso, Imprima la serie.
+-Solicite un numero posotivo al usuario(debe incluirse en la serie), Diga cuantos multiplos de n hay en la serie desde cero hasta el numero ingresado. n se ingresa por el teclado también

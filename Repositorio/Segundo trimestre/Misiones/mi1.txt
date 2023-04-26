@@ -1,0 +1,3 @@
+Del capítulo dos del curso de Python traer cinco enunciados de un problema
+Del capítulo tres cinco enunciados de condiciones y cinco enunciados de ciclos 
+De cada problema o enunciado traer el código Python de la solución

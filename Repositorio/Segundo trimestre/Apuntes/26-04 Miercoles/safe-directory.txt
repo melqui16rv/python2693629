@@ -1,0 +1,32 @@
+PS D:\prueba> git status
+fatal: detected dubious ownership in repository at 'D:/prueba'
+'D:/prueba' is on a file system that doesnot record ownership
+To add an exception for this directory, call:
+
+        git config --global --add safe.directory D:/prueba
+PS D:\prueba> git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=lauradanielaballenbernal
+user.email=2423lauradaniela@gmail.com
+PS D:\prueba> git config --global --add safe.directory '*'
+PS D:\prueba> git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        datos.txt
