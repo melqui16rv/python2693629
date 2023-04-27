@@ -12,14 +12,14 @@ git add README.md
 git commit -m "primer commit"
 git branch -M main
 git remote add origin https://github.com/melqui16rv/python2693629.git
-git push -u origen principal
+git push -u origin main
 
 
 …o presione un repositorio existente desde la línea de comandos.
 
 git control remoto agregar origen https://github.com/melqui16rv/python2693629.git
 git branch -M main
-git push -u origen principal
+git push -u origin main
 
 credendiales:
 user.name=melqui16rv
