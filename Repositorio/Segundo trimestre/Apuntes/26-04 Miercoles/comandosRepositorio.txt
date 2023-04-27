@@ -1,5 +1,8 @@
 https://github.com/melqui16rv/python2693629.git
-
+https://github.com/melqui16rv/python2693629.git
+https://github.com/melqui16rv/python2693629.git
+https://github.com/melqui16rv/python2693629.git
+https://github.com/melqui16rv/python2693629.git
 
 …o crear un nuevo repositorio en la línea de comandos.
 
@@ -8,7 +11,7 @@ git init
 git add README.md
 git commit -m "primer commit"
 git branch -M main
-git control remoto agregar origen https://github.com/melqui16rv/python2693629.git
+git remote add origin https://github.com/melqui16rv/python2693629.git
 git push -u origen principal
 
 
