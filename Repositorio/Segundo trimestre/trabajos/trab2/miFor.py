@@ -1,4 +1,4 @@
-fin=int(input("Digite un hasta donde quiere que vata la serie: "))
+fin=int(input("Digite un hasta donde quiere que vaya la serie: "))
 cantidad=int(input("Digite la cantidad de cuanto va a ir incrementando o decrementando: "))
 if cantidad>0:
     serie=range(0, fin+1, cantidad)
