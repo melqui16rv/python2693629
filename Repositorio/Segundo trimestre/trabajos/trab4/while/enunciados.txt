@@ -1,0 +1,18 @@
+10. Algoritmo para hallar el m.c.d de dos números m y n por 
+el algoritmo de Euclides. 
+11. Solicitar 2 números al usuario e imprimir el cociente y el 
+residuo del mayor en el menor sin utilizar la división ni el mod. 
+12. Escribir un programa que visualice la siguiente figura, 
+utilizando ciclos. El usuario decide cuantas líneas quiere 
+imprimir 
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * * * 
+* * * * * * * 
+* * * * * * * * 
+* * * * * * * * * 
+13. Solicitar al usuario un número de hasta 9 dígitos e 
+imprimirlo en orden contrario. Ej. digito 6754 imprimo 4576

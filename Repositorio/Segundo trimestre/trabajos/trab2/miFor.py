@@ -14,4 +14,4 @@ multiplos=0
 for num in range(fin+1):
     if num%n==0:
         multiplos+=1
-print(f"Hay {multiplos} multiplos de {n} en la serie.")
+print(f"Hay {multiplos-1} multiplos de {n} en la serie.")
