@@ -1,0 +1,5 @@
+1. hacer un programa que 
+
+2. Poner comentarios a los codigos de listas echos por el profesor
+
+3. Investigar hacerca de las funciones de Pyhton
