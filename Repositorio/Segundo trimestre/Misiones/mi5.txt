@@ -1,5 +1,7 @@
-1. hacer un programa que 
+1. hacer 3 programas de listas
 
 2. Poner comentarios a los codigos de listas echos por el profesor
 
 3. Investigar hacerca de las funciones de Pyhton
+
+4. El tema de rebanadas de cisco
