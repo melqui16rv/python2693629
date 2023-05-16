@@ -123,7 +123,5 @@ print(moda(l1))
 print("la mediana es: ")
 print(mediana(l1))
 
-num_buscado = int(input("Ingrese el número que desea buscar: "))
+num_buscado = int(input("Ingrese el numero que desea buscar: "))
 buscarNum(l1, num_buscado)
-
-

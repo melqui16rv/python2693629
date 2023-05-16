@@ -1,0 +1,4 @@
+1. Realizar el punto 2 de la miscelánea de arreglos
+2. minimo 15 maximo 125.{validación}
+Llenar lista {Estaturas. 1,50 - 2,00}
+Hallar percentiles (impriman los percentiles en rango
