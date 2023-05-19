@@ -80,10 +80,35 @@ def promedioLista(lista):
     return sumaLista(lista)/len(lista)
 
 
-l1=llenarLista1(3,10)
+def paresImpares(lista1, lista2):
+    pares_lista1 = 0
+    impares_lista1 = 0
+    pares_lista2 = 0
+    impares_lista2 = 0
+
+    for num in lista1:
+        if num % 2 == 0:
+            pares_lista1 += 1
+        else:
+            impares_lista1 += 1
+
+    for num in lista2:
+        if num % 2 == 0:
+            pares_lista2 += 1
+        else:
+            impares_lista2 += 1
+
+
+    print(f"la lista uno tiene {pares_lista1} pares y {impares_lista1} impares")
+
+    print(f"la lista dos tiene {pares_lista2} pares y {impares_lista2} impares")
+
+
+
+l1=llenarLista1(9,20)
 print(l1)
 
-l2=llenarLista2(3,10)
+l2=llenarLista2(9,20)
 print(l2)
 
 print(sumarListas(l1,l2))
@@ -95,6 +120,8 @@ print(round(promedioLista(l1),2))
 
 print("promedio lista dos")
 print(round(promedioLista(l2),2))
+
+print(paresImpares(l1,l2))
 
 lista1=unir_listas(l1,l2)
 print("La lista unida es: ",lista1)
