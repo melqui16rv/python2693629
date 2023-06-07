@@ -1,0 +1,8 @@
+Escriba una clase Empleado que tenga como propiedades
+nombre, cargo, salario
+escriba metodos contructores, setters y getters
+escriba un método que permita calcular cuanto gana el empleado en una hora
+un método para saber cuanto recibe de incremento si el salario sube con el IPC. Si gana el mínimo se le aumenta el ipc + 3%
+Un método que reciba una cantidad de horas extras y calcule el salario incrementando las extras. No puede hacer mas de dos horas diarias y trabaja de luenes a viernes. Valide
+
+Anexar variable de clase que cuente cantidad de objetos creados de esa clase
