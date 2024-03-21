@@ -6,8 +6,8 @@ git config --global --unset user.name
 git config --global --unset user.email
 
 RECONFIGURAR GIT
-git config --global user.name "usuario"
-git config --global user.email "correo@mail.com"
+git config --global user.name "melqui16rv"
+git config --global user.email "melquiveru@mail.com"
 
 CREAR REPOSITORIO
 Abrir terminal en la carpeta principal...digitar
