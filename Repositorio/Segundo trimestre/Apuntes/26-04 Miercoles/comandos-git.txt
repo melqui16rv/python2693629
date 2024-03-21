@@ -3,6 +3,8 @@ git config --list
 
 DESCONFIGURAR GIT
 git config --global --unset user.name
+git config --global --unset-all user.name
+
 git config --global --unset user.email
 
 RECONFIGURAR GIT
